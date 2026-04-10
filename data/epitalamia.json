@@ -1,0 +1,20 @@
+[
+  {
+    "id": "epi-001",
+    "title": "Epitalamium na wesele Zamoyskich",
+    "year": 1648,
+    "place": "Kraków",
+    "printer": "Drukarnia Cezarego",
+    "description": "Druk okolicznościowy związany z uroczystością zaślubin.",
+    "thumbnail": "epi-001/thumb.webp"
+  },
+  {
+    "id": "epi-002",
+    "title": "Epitalamium Jana Kowalskiego",
+    "year": 1623,
+    "place": "Wilno",
+    "printer": "Drukarnia Akademicka",
+    "description": "Utwór weselny z elementami łacińskimi.",
+    "thumbnail": "epi-002/thumb.webp"
+  }
+]
